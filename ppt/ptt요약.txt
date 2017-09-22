@@ -39,13 +39,26 @@ Intra-List Diversity
 Norm이란 백터의 크기로, 각 원소의 제곱을 더한뒤 제곱근을 구한것이다.
 
 
-Distance & Similarity
+Distance & Similarity에는 아래 종류들이있다.
 
-Euclidean Distance란 x-y를 한뒤 놈을 구해주는것이다.
+1.Euclidean Distance
 
-Cosine Similarity 는 x의 역과 y를 곱한뒤  x의놈과 y의 놈으로 나눠주는것이다.
+2.Cosine Similarity 
 
-Pearson similarity 란  
+3.Pearson similarity 
+
+4.Jaccard Similarity
+
+
+02 Item Vector Representation 
+
+1.Bag of word Representation 단어 카운트 세는 방식.
+
+2.TF-IDF
+
+
+
+
 
 
 
