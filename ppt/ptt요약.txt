@@ -1,0 +1,64 @@
+===========================Chapter 1==============================
+
+Best Recommendation => 카운트형식
+
+Related Recommendation => 아이템 특성 유사도형식
+
+Personalized Recommendation => 사용자와 유사한 사용자 찾는 형식
+
+
+
+Content-based Filtering이란 이미 존재하는 속성을 가지고.
+
+Collaborative Filtering은 서로간의 연결고리를 찾아서.
+
+
+Explicit Feedback이란 평점,
+Implicit Feedback이란 조회,구매,시청등
+
+예측Prediction vs 발견Discovery
+메트릭스를 보고 메트릭스2와 메트릭스3인가, 메트릭스를보고 인셉션,블레이드러너 인가
+
+다양성문제
+Inter-list Diversity
+사용자에게 같은 아이템을 여러번 추천하는것을 지양
+Intra-List Diversity
+전부 비슷한 속성으로만 이루어지는 것을 지양'
+
+===========================Chapter 2==============================
+
+추천엔진에는 백터연산이 쓰인다.
+
+1.Transpose
+
+2.Addition
+3.Scalar Multiplication
+4.Inner product
+5.Norm 
+
+Norm이란 백터의 크기로, 각 원소의 제곱을 더한뒤 제곱근을 구한것이다.
+
+
+Distance & Similarity에는 아래 종류들이있다.
+
+1.Euclidean Distance
+
+2.Cosine Similarity 
+
+3.Pearson similarity 
+
+4.Jaccard Similarity
+
+
+02 Item Vector Representation 
+
+1.Bag of word Representation 단어 카운트 세는 방식.
+
+2.TF-IDF
+
+
+
+
+
+
+

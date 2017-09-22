@@ -1,0 +1,6 @@
+
+Pearson (Correlation) similarity란
+
+설명: Cosine Similarity와 비슷하지만 원소의 값에 평균값을 빼준채 계산하는것이다. 즉 평균에 가깝에 맞춰 구하겠다는것이다.
+
+원리: Cosine Similarity를 평균을 고려해 구하면 좀더 정확한 값을 구할것이다.
