@@ -9,3 +9,8 @@ Multi Recommendation
         3. Linear Regression Model 
 
  
+
+9/30 - 
+        next 
+        1.python (TF-IDF Dataframe type ) 
+        2.
