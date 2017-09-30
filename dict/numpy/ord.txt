@@ -1,0 +1,5 @@
+ord란
+order의 약자로
+
+
+참고 doc => https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.linalg.norm.html
