@@ -5,7 +5,7 @@ Multi Recommendation
         
         next
         1. Neighborhood Model 알아보기
-        <s style='coler:red' >2. python (TF-IDF , Cosine Similarity, CF)</s>
+        <s>2. python (TF-IDF , Cosine Similarity, CF)</s>
         3. Linear Regression Model 
 
 
