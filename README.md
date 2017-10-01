@@ -4,8 +4,8 @@ Multi Recommendation
 09/29 - 
         
         next
-        1. Neighborhood Model 알아보기
-        2. python (TF-IDF , Cosine Similarity, CF)
+        1. Neighborhood Model 알아보기
+        <s>2. python (TF-IDF , Cosine Similarity, CF)</s>
         3. Linear Regression Model 
 
  
