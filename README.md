@@ -18,6 +18,7 @@ Multi Recommendation
 -next
 * Minkowski distance 알아보기
 * Manhattan distance 알아보기
+* Cosine similarity 쓰는도중 numpy.divide에서 왜 .T쓰는지 알아보기 
 
 
 
