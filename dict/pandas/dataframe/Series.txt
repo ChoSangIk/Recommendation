@@ -1,0 +1,1 @@
+* Series란 Series타입으로 바꾸어주는것이다. Series는 하나의 행으로 dict형식과 닮았다.
