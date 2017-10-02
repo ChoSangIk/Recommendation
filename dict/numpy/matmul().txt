@@ -1,0 +1,8 @@
+
+matmul이란 선형대수의 multiplelicative이다. 곱해주는거
+
+ex) 
+
+matmul( weights, weights.T )
+weights.T 는 역전 된것이다.
+

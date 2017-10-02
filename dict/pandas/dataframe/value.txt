@@ -1,0 +1,1 @@
+dataframe의 value값을 가져올수있다.

@@ -1,0 +1,8 @@
+
+
+movies = pd.read_csv('../src/movies_w_imgurl.csv') 처럼 쓰이며
+
+'' 안엔 경로가 들어간다.
+
+
+해당csv를 받아와서 dataframe형식으로 만들어준다.
