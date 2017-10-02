@@ -19,6 +19,6 @@ Multi Recommendation
 * Minkowski distance 알아보기
 * Manhattan distance 알아보기
 * Cosine similarity 쓰는도중 numpy.divide에서 왜 .T쓰는지 알아보기 
-* CBF.ipython의 weight에서 왜 nomalized할때 norm을 나누는지?
-
+* 4)CBF.ipython의 weight에서 왜 nomalized할때 norm을 나누는지?
+* 4)CBF.ipython 에서 sims구할떄 divide왜 안됬는지 
 
