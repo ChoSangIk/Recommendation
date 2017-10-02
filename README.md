@@ -16,5 +16,8 @@ Multi Recommendation
 
 #### 10/02 - 
 -next
-* Minkowski distance
-* Manhattan distance
+* Minkowski distance 알아보기
+* Manhattan distance 알아보기
+
+
+
