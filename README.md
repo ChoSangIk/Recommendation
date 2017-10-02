@@ -1,8 +1,8 @@
 # Recommendation
 Multi Recommendation 
 
-#### 09/29  
--next        
+#### 09/29  <br>
+-next        <br>
 1.Neighborhood Model 알아보기 <br>
 2.<s>python (TF-IDF , Cosine Similarity, CF)</s> <br>
 3.Linear Regression Model <br>
@@ -10,8 +10,11 @@ Multi Recommendation
 
  
 
-9/30 - 
+#### 9/30 
+-next        <br>
+1.python (TF-IDF Dataframe type ) <br>
 
-        next
-        1.python (TF-IDF Dataframe type ) 
-        2.
+#### 10/02 - 
+-next
+* Minkowski distance
+* Manhattan distance
