@@ -12,7 +12,7 @@ Multi Recommendation
 
 #### 9/30 
 -next        <br>
-*<s> python (TF-IDF Dataframe type )</s <br>
+*<s> python (TF-IDF Dataframe type )</s> <br>
 
 #### 10/02 - 
 -next
