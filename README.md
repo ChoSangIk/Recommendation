@@ -3,7 +3,7 @@ Multi Recommendation
 
 #### 09/29  <br>
 -next        <br>
-* Neighborhood Model 알아보기 <br>
+* Neighborhood methods 알아보기 <br>
 * <s>python (TF-IDF , Cosine Similarity, CF)</s> <br>
 * Linear Regression Model <br>
 
@@ -12,7 +12,7 @@ Multi Recommendation
 
 #### 9/30 
 -next        <br>
-* python (TF-IDF Dataframe type ) <br>
+*<s> python (TF-IDF Dataframe type )</s <br>
 
 #### 10/02 - 
 -next
@@ -22,3 +22,6 @@ Multi Recommendation
 * 4)CBF.ipython의 weight에서 왜 nomalized할때 norm을 나누는지?
 * 4)CBF.ipython 에서 sims구할떄 divide왜 안됬는지 
 
+#### 10/03 - 
+Qustions
+* what is instance-based learning , lazy learning in neighborhood methods of knn
