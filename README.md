@@ -3,7 +3,7 @@ Multi Recommendation
 
 #### 09/29  <br>
 -next        <br>
-* Neighborhood methods 알아보기 <br>
+* <s>Neighborhood methods 알아보기</s> <br>
 * <s>python (TF-IDF , Cosine Similarity, CF)</s> <br>
 * Linear Regression Model <br>
 
