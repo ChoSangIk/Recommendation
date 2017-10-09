@@ -1,0 +1,13 @@
+
+Neighborhood Methods란 무엇인가?
+
+논문1
+http://cs229.stanford.edu/proj2007/Dommeti-NeighborhoodBasedMethodsForCollaborativeFiltering.pdf
+
+
+
+KNN ( K-Nearest Neighbors)
+k-Means
+k-d Trees
+Locality Sensitive Hashing 방식들이 전부 이웃 방법듯이다.
+
