@@ -25,3 +25,7 @@ Multi Recommendation
 #### 10/03 - 
 Qustions
 * what is instance-based learning , lazy learning in neighborhood methods of knn
+
+#### 10/10 - 
+Q
+* what is inner product
