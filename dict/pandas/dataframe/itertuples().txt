@@ -1,0 +1,4 @@
+
+itertuples()란?
+
+Dataframe을 각각의 tuples들로 만들어주는것이다.
