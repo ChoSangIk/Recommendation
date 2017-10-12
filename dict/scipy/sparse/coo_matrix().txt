@@ -1,0 +1,8 @@
+
+
+class scipy.sparse.coo_matrix(arg1, shape=None, dtype=None, copy=False)
+
+
+이고 coo_matrix() 는 빠르게 matrix로변환해주는것이 장점이다.
+
+그러나 단점은 불편하다 
