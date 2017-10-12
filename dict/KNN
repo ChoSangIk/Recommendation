@@ -1,0 +1,33 @@
+
+
+KNN이란 무엇인가?
+
+k-Nearest Neighbors의 약자이며,
+
+
+
+An object is classified by a majority vote of its neighbors
+이웃들에의해 오브젝트가 분류된다.
+
+output of value is the average of the values of its k nearest neighbors.
+K개의 주변 이웃들의 평균값이 아웃풋으로 나온다.
+
+k-NN is a type of instance-based learning, or lazy learning
+
+k-NN은 instance-based learning이나 lazy learning 타입이다.
+
+the function is only approximated locally and all computation is deferred until classification.
+
+이 함수는 근접된 장소, 그리고 모든 계산은 분류전까지 연기되어진다.
+
+Both for classification and regression, it can be useful to assign weight to the contributions of the neighbors
+이러한 분류와 회귀는 이웃간의 가중치를 나타내는데 효과적이다.
+
+가까우면 평균에 영향을 준다. 먼건 덜영향을준다.
+
+예를들면 가중치는 1/d이다. d는거리.
+
+
+
+This can be thought of as the training set for the algorithm, though no explicit training step is required.
+- 알고리즘의 트레이닝 셋인것같지만, 외부 트레이닝 데이터가 필요없다.
