@@ -1,0 +1,4 @@
+numpy의 divide는 
+
+divide(x,y)로 쓰이며 x와 y를 나누어주느것이다.
+

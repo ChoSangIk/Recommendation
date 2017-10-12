@@ -1,0 +1,14 @@
+
+
+numpy.linalg.norm(  dataframe or array  , ord=2, axis=1) 이다.
+
+
+axis란 
+차원을 말하는것이다. 행렬에선 행,열을 말한다. 
+
+
+ord란
+order의 약자로
+
+
+참고 doc => https://docs.scipy.org/doc/numpy-1.13.0/reference/generated/numpy.linalg.norm.html
