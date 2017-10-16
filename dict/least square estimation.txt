@@ -1,0 +1,17 @@
+and
+least square estimation에는
+
+Ordinary least squares
+
+Generalized least squares (GLS)
+
+Percentage least squares 
+
+Iteratively reweighed least squaresares (IRLS)
+
+Instrumental variables
+
+Optimal instruments
+
+Total leas squares  등이있다.
+
