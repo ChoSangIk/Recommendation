@@ -16,7 +16,7 @@ Multi Recommendation
 
 #### 10/02 - 
 -next
-* Minkowski distance 알아보기
+* <s>Minkowski distance 알아보기</s>
 * Manhattan distance 알아보기
 * <s>3)Cosine similarity 쓰는도중 numpy.divide에서 왜 .T쓰는지 알아보기 </s>
 * 4)CBF.ipython의 weight에서 왜 nomalized할때 norm을 나누는지?
