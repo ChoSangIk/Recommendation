@@ -1,0 +1,5 @@
+Simson's paradox(심슨의 역설) - confounding variables(혼재변수)가 누락되어 상관관계가 잘못 계산되는 현상
+
+https://m.blog.naver.com/PostView.nhn?blogId=brian0409&logNo=220251287048&proxyReferer=https%3A%2F%2Fwww.google.co.kr%2F
+
+심슨의 역설을 조심하자!
