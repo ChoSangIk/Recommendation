@@ -5,3 +5,5 @@ inner-product
 cos =  x*y / ||x||*||y|| 이다.
 
 즉 두 행렬을 곱한뒤, 각행렬의 놈값을 각각 나눠주는것이다.
+
+같은 값과 같은값의 역을 multiplelicative해주면 inner product다.
