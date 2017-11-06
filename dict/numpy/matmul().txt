@@ -1,5 +1,5 @@
 
-matmul이란 선형대수의 multiplelicative이다. 곱해주는거
+matmul이란 선형대수의 multiplicative이다. 곱해주는거
 
 ex) 
 
